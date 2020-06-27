@@ -1,0 +1,31 @@
+.hero
+{
+	width:100%;
+	height:40%;
+	background-color:#CCE5FF;
+	border-radius:10px;
+}
+/* #E0EBE8*/
+h3
+{
+	color:#45B39D;
+	text-align: center;
+}
+h5
+{
+	text-align: left;
+	margin-left:20px;	
+}
+.card-deck
+{
+
+	
+	animation: fadeInUp 1s ease-in-out 0s forwards;
+	animation-delay: 3s;
+}
+
+#im
+{
+	width:100px;
+	height: 100px;
+}
