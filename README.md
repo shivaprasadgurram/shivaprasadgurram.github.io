@@ -1,4 +1,4 @@
 # shivaprasadgurram.github.io
 - >Developed Using HTML,CSS and Bootstrap
-- >Personal website
+- >Personal Portfolio
 - >Look at : https://shivaprasadgurram.github.io/
